@@ -1,5 +1,7 @@
 # Curso Básico de Desarrollo Web
 
+Puedes ver la página web del proyecto en el siguiente enlace: [devstackapol.netlify.app](https://devstackapol.netlify.app/)
+
 Este repositorio es el proyecto de un curso básico de desarrollo web, abarcando tanto el frontend como el backend. El diseño y la creación de la página fueron realizados de forma propia, incluyendo la producción de los videos educativos del curso. El contenido cubre los siguientes temas:
 
 ## 1. **Introducción a la Web y Tecnologías Básicas 🌐**
