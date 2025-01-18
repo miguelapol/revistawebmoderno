@@ -4,7 +4,10 @@
 html {
     box-sizing: border-box;
     font-size: 62.5%; /* 1REM = 10px */
+    /*desplazamiento suave*/
     scroll-behavior: smooth;
+    /*con esto agregamos que no haga ese movimiento extraño*/
+    overscroll-behavior: none;
 }
 *, *:before, *:after{
     margin: 0;
@@ -276,6 +279,7 @@ img {
     display: flex;
     align-items: center;
     gap: 1rem;
+    height: 5rem;
 }
 /*footer*/
 .site-footer{
