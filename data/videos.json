@@ -1,0 +1,52 @@
+{
+    "html": {
+      "nombre": "Introducción al HTML",
+      "videos": [
+        {"titulo": "Instalación", "id": "9otxnSuf0XA"},
+        {"titulo": "Introducción", "id": "gNTnTnVQO4M"},
+        {"titulo": "Estructura HTML", "id": "9otxnSuf0XA"},
+        {"titulo": "Ejercicio 1", "id": "bGlA1Oj9wnM"},
+        {"titulo": "Ejercicio 2", "id": "4N3TNQOQrl0"},
+        {"titulo": "Ejercicio 3", "id": "oZYkhp_Loio"},
+        {"titulo": "Ejercicio 4", "id": "I8bKzQufcqg"},
+        {"titulo": "Ejercicio 5", "id": "1AaSWrAPIs4"},
+        {"titulo": "Ejercicio 6", "id": "8UafsG2cc5U"}
+      ]
+    },
+    "javascript": {
+      "nombre": "Curso Básico de JavaScript",
+      "videos": [
+        {"titulo": "Presentación", "id": "adEwMktSgpI"},
+        {"titulo": "Introducción", "id": "adEwMktSgpI"},
+        {"titulo": "Ejercicio 1", "id": "3UwB5NBTUtg"},
+        {"titulo": "Ejercicio 2", "id": "wFtlBi4KlLY"},
+        {"titulo": "Ejercicio 3", "id": "t0dAetg2f7g"},
+        {"titulo": "Ejercicio 4 Parte 1", "id": "M4YB2s0aaMA"},
+        {"titulo": "Ejercicio 4 Parte 2", "id": "UV8VHIkML3I"},
+        {"titulo": "Ejercicio 5", "id": "h8cVgK8wJJw"}
+      ]
+    },
+    "angular": {
+      "nombre": "Curso Angular Básico",
+      "videos": [
+        {"titulo": "Presentación", "id": "ToA15YZoBs8"},
+        {"titulo": "Angular Parte 1", "id": "OWTYRBNduLA"},
+        {"titulo": "Angular Parte 2", "id": "6fWCtiTnBy8"},
+        {"titulo": "Angular Parte 3", "id": "etPLVDGTYCc"},
+        {"titulo": "Angular Parte 4", "id": "OGgbTSPUROk"},
+        {"titulo": "Angular Parte 5", "id": "Ag43EhOrimE"}
+      ]
+    },
+    "bun": {
+      "nombre": "Presentación Bun",
+      "videos": [
+        {"titulo": "Presentación", "id": "dNfXf7auU40"},
+        {"titulo": "Instalación", "id": "2KTU5w5wIg8"},
+        {"titulo": "Curso Bun Parte 1", "id": "Mv7CC8FNWN0"},
+        {"titulo": "Curso Bun Parte 2", "id": "CAPwccfsjnk"},
+        {"titulo": "Curso Bun Parte 3", "id": "TyyhtxSI_MU"},
+        {"titulo": "Curso Bun Parte 4", "id": "640j_P2Rw3E"}
+      ]
+    }
+  }
+  
